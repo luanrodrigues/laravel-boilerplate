@@ -9,7 +9,9 @@
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9",
         "league/flysystem-path-prefixing": "^3.0",
-        "predis/predis": "^2.0"
+        "predis/predis": "^2.0",
+        "spatie/laravel-html": "^3.11",
+        "spatie/laravel-sluggable": "^3.6"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.13",
